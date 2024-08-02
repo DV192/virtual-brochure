@@ -1,0 +1,1 @@
+export const backgroundText = ["Nature", "3D", "Interactive", "Digital Realm", "Three.js", "React Three Fiber", "Creative", "Explore"]
